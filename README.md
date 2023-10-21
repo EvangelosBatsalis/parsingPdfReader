@@ -1,2 +1,2 @@
 # parsingPdfReader
-Simple Java project that parses pdf for specific data collection
+Simple Java project that parses PDF for specific data collection
